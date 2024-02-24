@@ -10,5 +10,5 @@ A Single Ended Operational Amplifier mainly made with bipolar technology and a N
 - Offset = 50mV.
 
 ## Soldered PCB image:
-![img](opamp7.png)
+![img](opamp7.jpg)
 
